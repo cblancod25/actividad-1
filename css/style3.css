@@ -1,0 +1,36 @@
+table{
+    width: 40%;
+    border-collapse: collapse;
+}
+
+thead{
+    text-align: center;
+}
+
+td{
+    border: 2px solid blue;
+    padding: 10px;
+    text-align: left;
+
+}
+
+.verde{
+    background-color: rgb(102, 194, 68);
+    text-align: center;
+}
+.gris{
+    background-color: rgb(164, 163, 163);
+    text-align: center;
+}
+
+.gris{
+    width: 60%;
+    border-collapse: collapse;
+    border: 2px solid rgb(176, 117, 7);
+}
+
+.verde{
+    width: 60%;
+    border-collapse: collapse;
+    border: 2px solid rgb(176, 117, 7);
+}
